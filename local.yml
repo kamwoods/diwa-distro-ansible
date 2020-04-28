@@ -62,7 +62,7 @@
        - libcppunit-dev
        - libcrypto++6
        - libcurl4-openssl-dev
-       - libdvdread4
+       - libdvdread7
        - libevent-dev
        - libexif-dev
        - libexpat1-dev
