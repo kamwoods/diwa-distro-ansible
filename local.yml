@@ -118,7 +118,6 @@
        - python3-tk
        - python3-virtualenv
        - sharutils
-       - siegfried
        - smartmontools
        - squashfs-tools
        - ssdeep
