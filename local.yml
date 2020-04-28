@@ -58,7 +58,7 @@
        - libboost-system-dev
        - libboost-test-dev
        - libbz2-dev
-       - libcppunit-1-dot-14-0
+       - libcppunit-1.15-0
        - libcppunit-dev
        - libcrypto++6
        - libcurl4-openssl-dev
