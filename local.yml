@@ -52,7 +52,6 @@
        - libappindicator3-dev
        - libarchive-dev
        - libavcodec-extra
-       - libav-tools
        - libboost-dev
        - libboost-filesystem-dev
        - libboost-program-options-dev
